@@ -1,0 +1,5 @@
+{
+	"port": 3000,
+	"env": "development",
+	"api_versions": ["1.0"]
+}
